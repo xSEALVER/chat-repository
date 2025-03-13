@@ -5,3 +5,11 @@ body {
     box-sizing: border-box;
 }
 
+
+.prefooter {
+    background-color: #7885A5;
+}
+
+.prefooter:hover {
+    background-color: #061339;
+}
